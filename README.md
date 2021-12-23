@@ -22,4 +22,4 @@ Exemplo: php consultar.php
 ```
 
 **OBS: mude o cnpj no source code**
-<h1>CNPJ Default: 00.000.000/0001-91</h1>
+**CNPJ Default: 00.000.000/0001-91**
