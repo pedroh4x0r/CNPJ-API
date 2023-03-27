@@ -8,7 +8,7 @@
 ### Instalação Direta: :computer:<br/><br/>
 **Clone o Repositório**
 ```bash
-git clone https://github.com/pedroh4x0r/CNPJ-API
+git clone https://github.com/pedrolucaspdev/CNPJ-API
 ```
 
 **Rode o composer** :fire:
